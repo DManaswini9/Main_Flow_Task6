@@ -6,18 +6,31 @@ It focuses on building a basic Machine Learning model to understand data preproc
 ## 🚀 Project Workflow
 
 Data Collection – Imported and explored the dataset
+
 Data Preprocessing –
+
 Handling missing values
+
 Feature selection
+
 Data normalization/scaling
+
 Exploratory Data Analysis (EDA) –
+
 Visualized trends and distributions
+
 Line plots and statistical summaries
+
 Model Building – Implemented regression algorithms (Linear Regression as baseline)
+
 Model Evaluation – Assessed performance using:
+
 Root Mean Squared Error (RMSE)
+
 R² Score
+
 Predictions – Generated predictions on test/unseen data
+
 
 ## 📊 Outcomes
 
