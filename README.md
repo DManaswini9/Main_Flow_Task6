@@ -3,35 +3,34 @@
 This project is part of my Data Science with Python Internship at Main Flow Services and Technologies Pvt. Ltd.
 It focuses on building a basic Machine Learning model to understand data preprocessing, visualization, model training, and performance evaluation using regression techniques.
 
-## 🚀 Project Workflow
+## 🚀 Project Workflow  
 
-Data Collection – Imported and explored the dataset
+1. **Data Collection**  
+   - Imported and explored the dataset  
 
-Data Preprocessing –
+2. **Data Preprocessing**  
+   - Handled missing values  
+   - Performed feature selection  
+   - Applied normalization/scaling  
 
-Handling missing values
+3. **Exploratory Data Analysis (EDA)**  
+   - Visualized data distributions  
+   - Plotted sales trends and patterns  
+   - Checked correlations between features  
 
-Feature selection
+4. **Model Building**  
+   - Implemented Linear Regression as the baseline model  
+   - Trained the model on prepared data  
 
-Data normalization/scaling
+5. **Model Evaluation**  
+   - Assessed performance using metrics:  
+     - Root Mean Squared Error (RMSE)  
+     - R² Score  
 
-Exploratory Data Analysis (EDA) –
-
-Visualized trends and distributions
-
-Line plots and statistical summaries
-
-Model Building – Implemented regression algorithms (Linear Regression as baseline)
-
-Model Evaluation – Assessed performance using:
-
-Root Mean Squared Error (RMSE)
-
-R² Score
-
-Predictions – Generated predictions on test/unseen data
-
-
+6. **Predictions**  
+   - Generated predictions on test/unseen data  
+   - Compared actual vs. predicted values using visualizations
+   - 
 ## 📊 Outcomes
 
 Built a complete ML pipeline from raw dataset to predictions
@@ -43,7 +42,11 @@ Understood the importance of EDA in model building
 ## 🛠 Tech Stack
 
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Scikit-learn
+
 Jupyter Notebook
